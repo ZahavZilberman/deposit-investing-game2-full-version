@@ -1,0 +1,10 @@
+Tips:
+DepositInvestingGame\Tips\Consider the probability of 2 events.txt
+DepositInvestingGame\Tips\Try to get compound interest.txt
+DepositInvestingGame\Tips\Game strategies part 3.txt
+
+Enrichements:
+DepositInvestingGame\Enrichement\Primitvism.txt
+DepositInvestingGame\Enrichement\About luck in investements.txt
+DepositInvestingGame\Enrichement\Placebo and other manipulations.txt
+

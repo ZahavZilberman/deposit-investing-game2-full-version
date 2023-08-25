@@ -1,0 +1,25 @@
+<AGame>
+
+<Name>yura real life</Name>
+<RiskProfile>1</RiskProfile>
+<MoneyToEnd>100000</MoneyToEnd>
+<StartMoney>12000</StartMoney>
+<Income>1500</Income>
+<BankName>yura bank</BankName>
+
+<Bank>
+<StartBankMoney>20000</StartBankMoney>
+</Bank>
+
+
+<Deposit>
+
+<Name>flexiable deposit</Name>
+<TimeSpan>4</TimeSpan>
+<DefaultInterestPerYear>1.04</DefaultInterestPerYear>
+<MinimumMoney>50</MinimumMoney>
+<ExitPointsGap>6</ExitPointsGap>
+
+</Deposit>
+
+</AGame>

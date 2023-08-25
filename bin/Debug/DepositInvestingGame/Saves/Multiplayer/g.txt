@@ -1,0 +1,43 @@
+Game:
+Level 1
+Bank name:
+Simpliest bank ever
+All deposits:
+Bear
+Simpliest bank ever
+True
+df
+Flower
+df
+False
+1.1664
+300
+01/07/0002 00:00:00
+01/07/0003 00:00:00
+Time:
+1
+3
+Player 1:
+df
+This player's deposits number:
+1
+Flower
+Other player 1 details:
+False
+1
+539.23
+True
+Player 2:
+sfd
+This player's deposits number:
+0
+Other player 2 details:
+False
+3
+749.92
+False
+Bank:
+Simpliest bank ever
+False
+110.85
+1

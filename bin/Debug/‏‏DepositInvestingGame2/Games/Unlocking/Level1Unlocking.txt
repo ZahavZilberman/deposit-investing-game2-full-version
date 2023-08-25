@@ -1,0 +1,12 @@
+Tips:
+DepositInvestingGame\Tips\Game strategies part 1.txt
+DepositInvestingGame\Tips\Avoid the panic state.txt
+DepositInvestingGame\Tips\Think relative instead of absloute.txt
+
+Enrichements:
+DepositInvestingGame\Enrichement\Deposits.txt
+DepositInvestingGame\Enrichement\Bonds.txt
+DepositInvestingGame\Enrichement\Expenses and earnings.txt
+
+
+

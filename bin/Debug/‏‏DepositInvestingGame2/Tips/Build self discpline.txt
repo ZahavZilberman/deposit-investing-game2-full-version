@@ -1,0 +1,95 @@
+
+== Tip ==
+
+- Build self discpline -
+
+Imagine this situation:
+You're playing against somene else in multiplayer mode,
+and you have many deposits, even more than him,
+but then the bank goes bankrupt
+in the other player's turn - in your next turn, you might feel
+over-mega-super-hyper pissed off.
+
+This situation was already brought up in a previous tip
+(about 'evaulting risk profile'),
+in which I addressed how dangerous it can be to
+'act from emotion'.
+
+This is espcally important, as those actions can actually form
+into habits that will influence your future deicisions[5].
+
+In this tip, I will further explain how to avoid
+acting from emotion in those situations.
+
+Generally speaking, self discpline is about regulating
+your own behaviour by sticking "laws" to it[1] - 
+like "go to sleep at 11:00 pm every day".
+
+It is associated with sacrificing short-term benefits
+for long-term benefits[2],
+so it can be diffcult and annoying to do.
+
+Stil, there are things you can try to do it.
+Here are some:
+
+1. Use heuristics - those are "rules of thumb" for
+making certain decisions in certain situations that will
+be sufficient to get what you want in those situations[3].
+
+Those "rules of thumb" can help you avoid making a dumb decision
+even when you're passionate (really want)[4] to make that dumb decision.
+
+So, an example of a "rule of thumb" that's super revelant to the example
+brought before, is to decide to:
+"never avenge another player when he causes the bank to go bankrupt".
+
+Indeed, my boy! Avenging him is not likely gonna be the decision
+that will give you the most money until the end of the game..
+So this rule of thumb can be very usefull!
+
+2. Write a contract with yourself.
+
+You can adopt a certain investing strategy,
+like "Buy or sell a deposit each turn",
+and stick to it at all costs by writing it
+on a contract.
+
+That will also restrict your ability to
+make quick and unplanned decisions
+due to unexpected events.
+
+Footnotes:
+
+[1] Based on the Wikipedia article about "Discpline",
+which defines discpline as regulating behaviours for
+"a system of governance". 
+I think self-discpline is very
+similiar to that - expect without somene *else* regulating
+your behaviour for you.
+
+[2] There's a research about this,
+which supported discpline as supporting
+long-term benefits
+(you can search the following on Google Scholar):
+Counteractive self-control in overcoming temptation.
+
+(Citation:
+Trope, Y., & Fishbach, A. (2000).
+Counteractive self-control in overcoming temptation.
+Journal of Personality and Social Psychology, 79(4), 493-506).
+
+[3] Based on the Wikipedia article about "Heuristic".
+
+[4] Based on the Wikipedia article about "Passion (emotion)".
+
+[5] There's a research about this,
+which supported that decisions from emotions
+are at least connected to decisions receiver later by
+the same person.
+You can find by typing in Google Scholar:
+The enduring impact of transient emotions on decision making
+
+(Cititaion:
+Andrade, E. B., & Ariely, D. (2009). The enduring impact of transient emotions on decision making.
+Organizational Behavior and Human Decision Processes, 109(1), 1-8. doi:10.1016/j.obhdp.2009.02.003)
+

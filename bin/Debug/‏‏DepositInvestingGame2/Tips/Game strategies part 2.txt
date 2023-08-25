@@ -1,0 +1,62 @@
+
+== Tip ==
+
+- Strategies for the game, part 2 -
+
+Here's a possible strategy (consisting of steps) for how to manage the deposits you buy:
+
+1. Before buying any deposit,
+set up a date for which you want to get the largest
+interest possible before either the bank goes bankrupt
+or you finish the level.
+
+2. From the game start until the date you've set,
+buy as many deposits as possible, while making
+sure that the date you've bought them at - 
+assures that all of them will be automatically released
+at the date you've set up in the previous step.
+
+However, make sure not to buy a deposit every turn,
+but to do nothing for 1 turn between each deposit you buy - 
+so that you'll have a worthy amount of money to put in each deposit,
+and also because deposits with different time spans must be
+bought at least 1 year after/before, in order for them to be released
+automatically at the same date.
+
+Keep doing that until the date you set up arrives.
+Once it arrives, you should receive all the deposits
+you bought from the start of the game.
+
+And when that happens, you will earn tons of money,
+possibly finishing the game at this date and/or
+causing the bank to go bankrupt.
+
+3. Now, regardless of if the bank went bankrupt or not
+at the end of step no.2,
+you may want to buy 1 or more deposits
+to earn as much as you can before either the game is finished,
+or until the earliest date the bank can go bankrupt again.
+
+It's recommended to choose 1 option out of the following:
+
+a. Buy the deposit with the longest time span (that you can afford),
+and release it at the turn that you expect to finish the game at.
+
+b. Buy the deposit whose time span is the closest to the gap
+between the current date and the date you expect to finish
+the game at (and that you can afford),
+so that it'll be automatically released right before the game is finished.
+
+Now, for the sake of arguement, let's assume that you will have (at the date you
+set at step no.1) enough money to buy each deposit from both those options,
+and assume each of the deposits can be released every turn after they're bought
+(= every 6 months).
+
+In which case, option (a) is better if the interest (per year) of the deposit it refers
+to is bigger than the interest of the deposit option (b) refers to,
+if its interest (when risen to the power of 2) is higher
+than the interest of the deposit from option (b),
+since you can only put the same amount of money in each option,
+and the interest from the deposit (a) will "get mulcted" by 50%
+due to the early release.
+

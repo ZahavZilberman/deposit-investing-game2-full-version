@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tips>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Game strategies part 1.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Avoid the panic state.txt</NextScreen>
+    <PreviousScreen></PreviousScreen>
+    <Unlocked>True</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Avoid the panic state.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Think relative instead of absloute.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Game strategies part 1.txt</PreviousScreen>
+    <Unlocked>True</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Things to consider in each turn.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Dont fall to the gambler fallacy.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Think relative instead of absloute.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Dont fall to the gambler fallacy.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Game strategies part 2.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Things to consider in each turn.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Consider the probability of 2 events.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Try to get compound interest.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Game strategies part 2.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Try to get compound interest.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Game strategies part 3.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Consider the probability of 2 events.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Game strategies part 3.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Evaluate your own risk profile.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Try to get compound interest.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Evaluate your own risk profile.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Build self discpline.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Game strategies part 3.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Build self discpline.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Dont copy from other players.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Evaluate your own risk profile.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Dont copy from other players.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\dont try to keep everything avaliable.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Build self discpline.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Game strategies part 2.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Consider the probability of 2 events.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Dont fall to the gambler fallacy.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\dont try to keep everything avaliable.txt</Path>
+    <NextScreen></NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Dont copy from other players.txt</PreviousScreen>
+    <Unlocked>False</Unlocked>
+  </Screen>
+  <Screen>
+    <Path>DepositInvestingGame\Tips\Think relative instead of absloute.txt</Path>
+    <NextScreen>DepositInvestingGame\Tips\Things to consider in each turn.txt</NextScreen>
+    <PreviousScreen>DepositInvestingGame\Tips\Avoid the panic state.txt</PreviousScreen>
+    <Unlocked>True</Unlocked>
+  </Screen>
+</Tips>

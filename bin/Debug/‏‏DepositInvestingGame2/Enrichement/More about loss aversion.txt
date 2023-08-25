@@ -1,0 +1,106 @@
+
+== Enrichment ==
+
+- More about loss aversion -
+
+As you may recall from the tip about 'Panic State',
+there's a "psychological phenomenon" called "loss aversion",
+about how much we humans hate losing stuff we own[1].
+
+Here I will talk more about how this "loss aversion" causes us to lose money - 
+in different situations than when investors sell their securities.
+
+- First, there's an academic article[2],
+which argues that while stocks yield
+a much higher averge return compared to bonds,
+most investors stil seem to prefer to avoid stocks
+and invest more (not neccesarily only, but more) in bonds.
+
+It argues that the reasons for that are - 
+not only do investors hate lossing money way more
+than they want to earn more money (that's loss aversion for ya!),
+but they also analyze their investements very frequently,
+maybe as if they're planning to invest in the stock market for only 1 year....
+(...)
+Even if they're actually planning to invest there for dozens of years.
+
+As a result, they may choose less risky investements just so they
+won't see any major loses at any year that they're investing at it.
+Because while bonds tend to return less money, they're also considered to be
+less risky.
+
+This is related to something called "Equity premium puzzle".
+I'm not sure what it is, but I think it refers to the same thing[3]..
+Or maybe not? Please exuse my stupidity. Go check yourself!
+
+- There's a research[4] done with a simple expirement,
+that suggests that people whose's brains may be considered as
+suffering from "dysfunction" on some regions of their brains,
+may actually invest money better due to their emotions
+"not functioning properly"
+
+In the expirement, all patients played a money investement game (like this one),
+that consits from 20 rounds of "investement decisions" - like in this game,
+in each round, you may choose to invest, and you may choose not to.
+
+And the patients with the "dysfunction" brain in regions related the emotion - 
+won. They kicked the ass of those whose brain in the emotional regions was "healthy".
+
+Makes me wonder what "being healthy" actually means..
+Maybe their emotions didn't trick them into making dumb decisions,
+like you're forced to even you fall into the "panic state" in this game.
+I hope your brain is also "dysfunctional" in those "emotional" regions!
+
+- There's also an effect called the "Certainty effect",
+which is about the psychological effect of changing
+the probability of something from certain to not certain[5].
+
+Some psychologists illustrated this effect with some expirements[5],
+which, on the bottom line, showed that people may be willing to make decisions
+that are most likely not the most profitable, but the most certain -
+
+decisions that care more about how low the risk of not earning the most money
+the decision they make "allows" is, rather than how much money they will
+earn from each possible decision "on averge"[5].
+
+So to put it short, because of the above,
+some psychologists argue that the more risk (= less certainty)
+in a decision, the bigger the "risk aversion"
+will have towards that decision[6].
+
+Footnotes:
+
+[1] See the tip 'Panic State' for a clear definition
+(with source) for "loss aversion".
+
+[2] You can find that article by searching on Google Scholar:
+"Myopic Loss Aversion and the Equity Premium Puzzle"
+
+(Citation:
+Benartzi, S., & Thaler, R. (1993). Myopic Loss Aversion and the Equity Premium Puzzle.
+doi:10.3386/w4369)
+
+[3] Based on the Wikipedia article about "Equity premium puzzle"
+
+[4] You read the research by searching on Google Scholar:
+"Investment Behavior and the Negative Side of Emotion"
+
+(Citation:
+Investment Behavior and the Negative Side of Emotion
+Volume: 16 issue: 6, page(s): 435-439
+Issue published: June 1, 2005)
+
+[5] Based on the Wikipedia article about "Certainty effect",
+it "refers to the psychological effect resulting from the reduction
+of probability from certainty to probable".
+
+The article describes 2 expirements where patients were offered 2 options each time,
+one was with a higher chance of earning nothing, but more "averge" profit,
+and another with a lower chance of earning nothing, but less "averge" profit.
+
+And in both cases, the patient choosed the less profitable option.
+Wikipedia describes it with more deeply.
+
+[6] And yes, I suppose that is unsurprisingly related to "loss aversion" -
+the less money we're willing to risk, the more "loss aversion" we have..
+

@@ -1,0 +1,102 @@
+
+== Enrichment ==
+
+- About luck in investements -
+
+Althought there aren't any "CPI-Linked" deposits in this version of the game[1],
+
+there's something you may want to know about investement that involves investing
+in or "against" any index in the stock market.
+
+First, investing "against" an index means to try to "beat the market" - 
+to invest and get the money you invest grow more (in percentages)
+than the percentage that an index that in the stock market (named "S&P 500")
+grows in the same time period - to get a higher yield than that index[2].
+
+In the stock market, funds (which are
+"a source of money that will be allocated to a specific purpose"[3])
+are sometimes invested in the stock market in ways that 
+try to "beat the market".
+People who manage them are "active managers"[5].
+
+There are times when they succeed, but based on some expirements[4],
+there's a possible suspicion that despite the fact that funds who try to "beat the market"
+are managed by "experts",
+their succeesses and failures are actually mainly luck-based,
+as a "monkey" fund with no strategy at all can beat them a lot..
+
+After all, investing in funds that try to "beat the market" requires paying high prices
+compared to other funds (regardless of the price of the bonds and other securities)[5],
+and since predicating the future with absloute certainty is appearntly impossible,
+many active managers fail to "beat the market".
+
+There's also an investement strategy called "Technical analysis",
+in which investors buy and sell certain securities[8], in hope
+of predicating currently when each security's price will increase.
+And there's research suggesting this strategy is also about as good
+as guessing randomly[6].
+
+Once huge risk comes from our (possible) tendency to view free products
+as more valueable simply due to their price[7] - 
+don't! the price of anything depends on millions of things..
+But value is not one of them!
+
+Even if funds with "active" managers or technical investements
+could be bought/done for no price, you could still lose money
+from those investements themselves..
+
+Hopefully this will help you to be cautious about any investement
+that depends on luck (such as cpi-linked deposits, which may exist
+in later versions of this game), and avoid evaluating the value of a product
+based on its price.
+
+Footnotes:
+
+[1] For expalanation about what a "CPI-Linked" deposit is,
+go read the enrichment titled "Deposits" again,
+it is explained there.
+
+[2] Based on the Investopedia article about "Is it possible to beat the market?",
+which explains what it means to "beat the market".
+
+[3] That's a quote from the Investopedia article about "Fund".
+
+[4] I honestly could'nt think the original titles for the research which points to this,
+but by searching on google staff like "stock market monkey beat the fund managers",
+some good results refering to those expirements jump!
+
+[5] Based on the Investopedia article about "Active Management".
+Relevant quotes:
+
+About price:
+"Actively managed funds typically have higher fees than passively managed funds."
+
+And about managers:
+"Active management is the use of a human element, such as a single manager,
+co-managers or a team of managers, to actively manage a fund's portfolio"
+
+[6] See for example in this research
+ Ben R. Marshall, Rochester H. Cahan, Jared Cahan,
+"Technical Analysis Around the World", 30.07.2008.
+
+Quote from it:
+"Over 5,000 popular technical trading rules are not consistently profitable
+in the 49 country indices that comprise the Morgan Stanley Capital Index
+once data snooping bias is accounted for".
+
+[7] See in this reseach:
+Dan Ariely, Kristina Shampan'er,
+"How Small is Zero Price? The True Value of Free Products",
+14.12.2006.
+
+It argues that people may actually belive a product has more benefits
+simply because it has no price.
+
+That is also related to social norms, which
+will be refered to in another tip/enrichment.
+
+[8] According to the Investopedia article about "Securities":
+"A security is a fungible, negotiable financial instrument
+that holds some type of monetary value."
+
+

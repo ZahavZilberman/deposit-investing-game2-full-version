@@ -1,0 +1,15 @@
+
+== Introduction to this test ==
+
+Again, your choices expand and the game's much longer,
+but this time, you'll also start from 0 dollars,
+will have to wait a lot before you can buy much of the
+offered deposits,
+and releasing the deposits by yourself may often be
+unallowed..
+
+"Bastard" best score in this test is finishing it at:
+year 10, month 7, with 20,500 dollars.
+
+(So you must either finish at "july 10" with over 20,500 dollars,
+or finish before that with any amount of dollars).

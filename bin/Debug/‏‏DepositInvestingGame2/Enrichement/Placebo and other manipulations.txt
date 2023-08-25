@@ -1,0 +1,64 @@
+
+== Enrichment ==
+
+- Placebo and other manipulations -
+
+Hey, look, I know you might think you know yourself well and all that,
+but you might be surpirsed how irrational our decisions can be.
+
+Here are some examples:
+
+1.
+One research[1] found that there can be a correlation between the price
+that we pay for a certain product, and the benefit we gain from it
+(the more we pay, the more benefit we get), and that's not
+neccesarily because of the product itself, but because
+of our possible expectation that the more we pay, the more we get.
+
+Expectations can create reality, without us knowing.
+This phenomenon is called "the placebo effect"[2] - 
+when something (the better benefit) happens,
+but not because of why it was supposed to (better product),
+but because of something unrelated (expectations).
+
+Fortunately, in this game, nothing is really luck-based anyway,
+well, unless you CHOOSE to depend on luck rather than calculations,
+I guess.. ^^
+
+2.
+Confirmation bias, which is the tendency to focus on confirming
+what you already belive[3], is also relevant in this regard - 
+if you belive that you it's always best, at any game,
+to avoid at all cost having the bank going bankrupt - 
+
+then you will proably find reasons why it has to be true
+("Canceling deposits risks my 'game mentality'!" "It's just annoying!"),
+even thought in this game, in some games, you can
+finish with much better scores if you purposelly make the bank
+go bankrupt in the earliest time possible.
+
+3. See in the tip "Don't copy from other players",
+about social norms..
+
+Footnotes:
+
+[1] It's a research which tested 2 groups, which received the same
+product, one with a higher price than the other, and then tested
+the (averge) benefit each group received from that product.
+
+You can find it in Google Scholar by searching:
+Placebo Effects of Marketing Actions: Consumers May Get What They Pay For
+
+(Citation:
+Shiv, B., Carmon, Z., & Ariely, D. (2005). Placebo Effects of Marketing Actions:
+ Consumers May Get What They Pay For. SSRN Electronic Journal. doi:10.2139/ssrn.707541)
+
+[2] The "Oxford Dictionaries" website defines placebo as:
+"A medicine or procedure prescribed for the psychological benefit to the patient rather than for any physiological effect." - 
+So in this regard, the "treatement" is whatever caused the expectations to rise, and the effect is the better benefit
+from the more expensive product.
+
+[3] Wikipedia defines confirmation bias as:
+"is the tendency to search for, interpret, favor, and recall information
+in a way that confirms one's preexisting beliefs or hypotheses"
+

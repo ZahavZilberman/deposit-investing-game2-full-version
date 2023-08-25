@@ -1,0 +1,63 @@
+
+== Banks and their offers ==
+
+As said in the previous document, this game will focus on loans of banks.
+
+First, the banks generally allow for 2 "types" of loans:
+
+a. Giving a loan to the bank: this is known as "depositing a deposit in a bank".*
+b. Taking a loan from the bank.
+
+* Note that in this game, depositing a deposit is considered the same as "buying a deposit"
+(because a deposit is like a product offered by the bank).
+
+Option (b) is ignored and doesn't exist in this game, so I won't write about it.
+
+Now about option (a). Here are several things important to know about deposits in general:
+
+- Deposits are NOT loans that you offer to the bank - the bank offers them for you.
+What happens is that it presents lists of deposits that you can choose to deposit to the bank.
+Each deposit is for a different timespan, and with a different "deafult" interest.
+
+- Deposits are generally not "flexiable" loans.
+From the moment you "buy" them in a bank,
+they "lock" in there, and are not part of your saved non-used money
+(until they are no longer locked).
+
+In the game (in real life it may be slightly different,
+depending on the bank) -
+
+and if you insist on "unlocking" them before the time span for
+the deposits expires, the bank will agree to unlock
+it at that time -
+but it will mulct you, althought in this game the
+mulct for that is always smaller than the interest you will receive for the deposit.
+
+- In real life, it's possible that in the same bank, there will be 2 different deposits
+with the same time span, but different interests.
+However, since I have no idea why this happens,
+it won't happen in this game.
+
+- The interest of the deposits also depends on the sum of the deposit.
+In real life, banks may offer higher interests for every deposit if the deposit's sum
+surpasses certain amounts.
+
+In the bank I'm in, for example,
+the lowest interest for any deposit is given if the sum is below 50,000 units of money,
+the "middle" interest is given to sums between 50,000 - 250,000 units of money,
+and the hightest interests are given to sums higher than 250,000 units of money.
+
+- Generally, the banks in real life offer many types of deposits,
+and there'll be an enrichment about that later, when you'll advance some more in the game.
+
+But in this game, all deposits are only one type: fixed-rate deposits.
+
+The meaning of a "fixed-rate deposits" is simple: the deposit's interest is measured by the precentage it increases the money
+you "bought" the deposit with per year. The precentage is the same for every year.
+
+So, for example, if you "bought" a deposit in 20,000 dollars, its time span is 2 years and it has a fixed interest rate of 1%,
+assuming you wait 2 years without ruining the deposit, after 2 years, the amount of money you should receive back (without taxes) is:
+
+20,000 * 1.01 * 1.01 = 20,402 dollars.
+
+

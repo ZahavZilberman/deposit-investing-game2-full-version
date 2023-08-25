@@ -1,0 +1,45 @@
+<AGame>
+
+<Name>yura real life 2</Name>
+<RiskProfile>1</RiskProfile>
+<MoneyToEnd>100000</MoneyToEnd>
+<StartMoney>12000</StartMoney>
+<Income>1500</Income>
+<BankName>blabl</BankName>
+
+<Bank>
+<StartBankMoney>20000</StartBankMoney>
+</Bank>
+
+
+<Deposit>
+
+<Name>flexible</Name>
+<TimeSpan>2</TimeSpan>
+<DefaultInterestPerYear>1.04</DefaultInterestPerYear>
+<MinimumMoney>50</MinimumMoney>
+<ExitPointsGap>6</ExitPointsGap>
+
+</Deposit>
+
+<Deposit>
+
+<Name>victory deposit</Name>
+<TimeSpan>1</TimeSpan>
+<DefaultInterestPerYear>1.04</DefaultInterestPerYear>
+<MinimumMoney>1000</MinimumMoney>
+<ExitPointsGap>0</ExitPointsGap>
+
+</Deposit>
+
+<Deposit>
+
+<Name>another victory deposit</Name>
+<TimeSpan>1</TimeSpan>
+<DefaultInterestPerYear>1.04</DefaultInterestPerYear>
+<MinimumMoney>1000</MinimumMoney>
+<ExitPointsGap>0</ExitPointsGap>
+
+</Deposit>
+
+</AGame>

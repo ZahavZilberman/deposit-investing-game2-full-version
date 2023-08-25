@@ -1,0 +1,119 @@
+
+== Enrichment ==
+
+- Decisions -
+
+In some previous enrichment,
+that refered to placebo and other "bias",
+it was explained that your decisions are not irrational.
+
+Now let's explain weird factors that may exist in every
+decision making your make:
+
+- Measuring each option against all other compareable options - 
+In Dan Ariely's book, "Predictably Irrational", he shows an expirement
+in the book's 1st chapter:
+
+You give a bunch of people two situations, in each of them they have to choose
+an option. The options were:
+
+Sitaution 1 - 
+
+Option 1: online subscription to a magazine’s website for $59
+Option 2: online and print subscription for $125
+
+Situtation 2 - 
+
+Option 1: online subscription to a magazine’s website for $59
+Option 2: print subscription for $125
+Option 3: online and print subscription for $125
+
+Sine the 2nd option in sitaution 2 is obviously not worth it,
+you may think that in both situations, people would equally
+choose either the $59 option, or the online and print subscription for $125.
+
+But no! In situtation 1, 68% choose the online and only 32% choose the print subscription,
+while in situation 2, 84% choose the third option and only 16% choose the online subscription.
+
+Dan said that this is because the unworthy option (only print subscription for $125)
+actually changed the prefference of the other options, because they were measured
+in relative to this option as well if it was offered[1].
+
+Stupid options can change our view on worthy options.. -___-!!!
+
+It's like if in this game, you were offered 3 deposits, one with 2% interest
+and 2 year time span, another with 3% interest and 1 year time span,
+and another one with 2% interest and 1 year time span..
+The last deposit obviously isn't worth it, but it may make you prefer
+the 2nd deposit (even thought the 1st is actually more profitable..)
+
+- Default options are easier to choose - 
+this is already addressed in an old article[2],
+but it can be explained better with the Wikipedia article
+about "Status quo bias":
+
+When a default option is prsented to a decision,
+if you experience (it's an EMOTIONAL bias, after all)
+the status quo bias, choosing any option that isn't
+the default option will give you a certain feeling of "loss",
+and this can lead to prefering the default option,
+simply due to loss aversion[4].
+
+By the way, this point was presented and proved
+with many examples in a presentation (that is hopefully stil
+available in Youtube), that you can check out[3].
+
+A simpe example from that presentation about the status quo bias:
+
+In some countries, people need to sign if they wish to donate organs
+post-mortem,
+while in others, everyone have to donate organs, and if you don't want to,
+you need to sign a form.
+
+And.. In the countries where the default is to donate organs,
+about 80-100% of the population do so,
+while in the countries where it's not,
+0-30% of the population donate organs.
+
+This also applies to this game, in a way - 
+you can get lazy and do nothing,
+because it's the simpliest (and those, the "default")
+decision you can receive at almost every turn,
+and it's not bound to your possible loss aversion
+(you don't have to lock any money in the bank).
+
+But doing nothing the whole game is the worst possible strategy
+for the goal of the game - get as much money as possible as fast as possible.
+You need to take risks and invest money!
+
+So.. Those are just some really weird things possibly affecting our decisions.
+
+Footnotes:
+
+[1] And if this annying thingy confuses you, you can read
+the article on Wikipedia (in english) about "decoy effect" -
+that basically presents the conclusion of this expirement.
+
+Dan's conclusion is was also already discussed in an article from 1993,
+which you can find in Google Scholar by searching
+"Context-Dependent Preferences" (click on the 1st result).
+
+(Citation:
+Tversky, A., & Simonson, I. (1993).
+ Context-Dependent Preferences. Management Science,
+39(10), 1179-1189. doi:10.1287/mnsc.39.10.1179)
+
+[2] You can find that article in Google Scholar by searching
+"Do Defaults Save Lives?".
+
+(Citation:
+Johnson, E. J., & Goldstein, D. G. (n.d.).
+Do Defaults Save Lives? The Construction of Preference, 
+682-688. doi:10.1017/cbo9780511618031.038)
+
+[3] You can (hopefully) find that presentation by searching "Passive and active decisions"
+on YouTube. It's a TEDx talk by Yossi Yassour. You may need to put on English subtitles.
+
+[4] Loss aversion is presented in the tip "Avoid the panic state"
+and in the enrichment "More about loss aversion".
+

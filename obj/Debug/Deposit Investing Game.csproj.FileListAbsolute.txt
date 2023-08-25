@@ -1,0 +1,44 @@
+c:\users\fun (do 1 thing)\documents\visual studio 2015\Projects\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+C:\Users\work\Desktop\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+C:\Users\work\Desktop\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.csprojResolveAssemblyReference.cache
+C:\Users\work\Desktop\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe
+C:\Users\work\Desktop\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.pdb
+C:\Users\work\Desktop\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.exe
+C:\Users\work\Desktop\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.pdb
+C:\Users\fun (do 1 thing)\Desktop\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+C:\Users\fun (do 1 thing)\Desktop\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.exe
+C:\Users\fun (do 1 thing)\Desktop\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.pdb
+C:\Users\fun (do 1 thing)\Desktop\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe
+C:\Users\fun (do 1 thing)\Desktop\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.pdb
+C:\Users\fun (do 1 thing)\Desktop\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.csprojResolveAssemblyReference.cache
+G:\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+G:\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.exe
+G:\Deposit Investing Game\Deposit Investing Game\obj\Debug\Deposit Investing Game.pdb
+G:\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe
+G:\Deposit Investing Game\Deposit Investing Game\bin\Debug\Deposit Investing Game.pdb
+C:\Users\work\Desktop\תיקיה חדשה\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+C:\Users\work\Desktop\תיקיה חדשה\Deposit Investing Game\obj\Debug\Deposit Investing Game.exe
+C:\Users\work\Desktop\תיקיה חדשה\Deposit Investing Game\obj\Debug\Deposit Investing Game.pdb
+C:\Users\work\Desktop\תיקיה חדשה\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe
+C:\Users\work\Desktop\תיקיה חדשה\Deposit Investing Game\bin\Debug\Deposit Investing Game.pdb
+C:\Users\work\Desktop\תיקיה חדשה\Deposit Investing Game\obj\Debug\Deposit Investing Game.csprojResolveAssemblyReference.cache
+G:\Deposit Investing Game 2.0 code\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+G:\Deposit Investing Game 2.0 code\Deposit Investing Game\obj\Debug\Deposit Investing Game.exe
+G:\Deposit Investing Game 2.0 code\Deposit Investing Game\obj\Debug\Deposit Investing Game.pdb
+G:\Deposit Investing Game 2.0 code\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe
+G:\Deposit Investing Game 2.0 code\Deposit Investing Game\bin\Debug\Deposit Investing Game.pdb
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\bin\Debug\Deposit Investing Game.pdb
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.csproj.AssemblyReference.cache
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.csproj.CoreCompileInputs.cache
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.exe
+C:\Users\zahav\OneDrive\Desktop\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.pdb
+C:\Users\zahav\OneDrive\Desktop\all backup for my games\Deposit investing game undeployed\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe.config
+C:\Users\zahav\OneDrive\Desktop\all backup for my games\Deposit investing game undeployed\Deposit Investing Game\bin\Debug\Deposit Investing Game.exe
+C:\Users\zahav\OneDrive\Desktop\all backup for my games\Deposit investing game undeployed\Deposit Investing Game\bin\Debug\Deposit Investing Game.pdb
+C:\Users\zahav\OneDrive\Desktop\all backup for my games\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.csproj.AssemblyReference.cache
+C:\Users\zahav\OneDrive\Desktop\all backup for my games\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.csproj.CoreCompileInputs.cache
+C:\Users\zahav\OneDrive\Desktop\all backup for my games\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.exe
+C:\Users\zahav\OneDrive\Desktop\all backup for my games\Deposit investing game undeployed\Deposit Investing Game\obj\Debug\Deposit Investing Game.pdb

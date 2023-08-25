@@ -1,0 +1,155 @@
+
+== Enrichment ==
+
+- Pension -
+
+In this game, you invest money to gain a certain amount of money as fast as possible.
+
+However, investors in real life can have many different reasons for investing in money.
+Those reasons may be may have something to do with their investement strategies.
+
+So, now I'll talk about investement strategies people can use in real life to retire from the job market
+(leave their jobs and never get another job for the rest of their life),
+which is known as becoming finically independent[1], or going into pension
+
+When someone is in pension, he has no income. 
+All he buys is with money he earned before going into pension,
+which is gathered in a "fund" (an investement)[2].
+
+This is why one who wants to go into pension,
+may use some kind of "retirement plan"[2],
+to ensure he can retire at a certain age with his money never running out.
+
+The general way to do this, it to create a source of passive income (from investements)
+that can be (expected to be)[3] enough to sustain you for the rest of your life.
+
+So if someone were to try this by investing in deposits, he would want
+to reach a point where the averge amount of money he earns per month
+from nothing but the interests of his deposits is expected to cover all of his (averge)
+expenses per month.
+
+However, in real life, he may find that deposits generally offer very little
+interests compared to other investement products such as bonds, stocks
+and so on.
+So one may want to invest in more risky products that generate much higher interest
+(more risky from the aspects of the chances that he'll earn less money than he will
+if the interests they will give him at the end is what he currently expects),
+so he can make a bigger passive income faster.
+
+Anyway, with this, as well as saving money for investements
+(by spending less money than he earns),
+and then investing that money,
+he can retire and go into pension.
+
+For example, say you're 30 years old, have no money saved or invested,
+earn a stable income of 2000 dollars per month, spends always 1500
+dollars per month, and invests 90% of his savings[4] only in a deposit that has
+a time span of 10 years and an interest of 2-3% per year, depending on the amount
+of money put into it.
+
+In which case, he saves 450 dollars a month for investements,
+so after 10 years, he saved (450 * 12 * 10) = 54,000 dollars.
+
+Then, at the age of 40, he invests 54,000 dollars in a deposit of 10 years with an interest of 2% a year.
+
+By the age of 50, he will save another 54,000 dollars for investements,
+while getting the deposit unlocked, thus receiving:
+(54,000 * 1.02 ^ 10) = ~65,800 dollars. 
+This is (65.8k - 54k = 11,800) dollars he gained from the interest.
+
+Say he adds both of those sums to invest (65,800 + 54,000 = 119,800) dollars
+in the same 10-year deposit with an interest of 2% a year.
+
+Then, by the age of 60, he will have:
+
+(119,800 * 1.02 ^ 10) = ~146,000 dollars.
+
+This time, the interest was (146,000 - 119,800 = 26,200) dollars.
+
+Now, say he expects to live until age 80, and wants to go into pension into age 70,
+living only from his money. Will he succed? Will the money be enough for 10 years?
+
+Well, first, between the ages of 60 and 70, he'll:
+
+- Earn another 54,000 dollars
+
+- Invest in the same deposit with 146,000 dollars,
+meaning by age 70, it'll unlock with (146,000 * 1.02 ^ 10 = ~178,000) dollars.
+
+- So, his sved money, disincluding money from emergency,
+is (178,000 + 54,000 = 232,000) dollars by age 70.
+
+Now, let's see if he'll succed. By age 70, he no longer has an income,
+still spends 1,500 dollars a month, and doesn't touch his savings for emergency.
+
+Between ages 70-80, he'll spend (1,500 * 12 * 10) = 180,000 dollars.
+
+Reminder: at age 70, after the deposit is unlocked, he had 232,000 dollars saved,
+saving for emergency disincluded.
+
+So yes! He'll survive (232,000 > 180,000). Thought if he turns out to live longer, he's in trouble.
+
+That's the basic concept of finicial independence.
+
+However, they are several possible differences between this example and
+how it may work for a real life person:
+
+a. In real life, even if you constantly buy the same things and consume equally
+every month, your expenses are likely to change throught time,
+because of something called "infulation" (and its opposite, deflation)[5]
+
+b. Earning a stable income is not possible.[6]
+The guy would have to never loss any of his income sources,
+never have their sums change,
+which requires stable health, stable relations with his
+co-workers/boss/clients, stable location (where he lives),
+etc.
+
+c. Remember also that another risk in the above example is the investements
+and the reliance on them.
+There's no such thing as a safe investement. Investing is like gambling (to some extent).
+
+You know the risks here from the game: The bank may have financial diffculties in returning
+to you the money he was supposed to return to you by the time the deposit is released.
+Also, you may want the deposit to be unlocked before its time span is due,
+resulting in the bank releasing it but mulcting you.
+In real life, he may also simply refuse to release your deposit.
+
+The guy in the above example was somewhat lucky to never 'fall' to any of those risks
+for 30 years..
+
+d. In real life, there are "retirement ages" that goverments have
+for some countries, which can be somewhere between the age 50-80[7].
+
+This is basically a concept the goverment uses to determine when they
+expect or require its citizens to retire[7].
+
+The goverment may try to help them by forcing them
+to pay some money to the goverment as taxes,
+and that money is invested in a fund in the stock market,
+and money from that fund can pulled only (or preferably)
+after they reach the "retirement age" the goverment stated.
+
+Footnotes:
+
+[1] Based on the definition of it in Wikipedia.
+
+[2] Based on the Wikipedia article about pension.
+
+[3] You can't know if it will be enough,
+but you make an expection based on the amount of time you're expecting to live,
+that can be based on the averge life expectancy in your country and more.
+
+[4] The reason why it's 90% instead of 100%,
+is because some people may suggest to always have some money
+left for emergency.
+
+[5] Both of those terms, according to Wikipedia, refer to changes in the prices
+of all services in a certain economy.
+
+[6] See in the enrichment you have about expenses and earnings
+information about the risks that can cause loss of income.
+
+[7] Based on the article on Wikipedia about "Retirement age".
+
+

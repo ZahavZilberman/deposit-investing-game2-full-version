@@ -1,0 +1,93 @@
+
+== Gameplay - part 1 ==
+
+When you play in either game mode, here are some key points to understand the gameplay:
+
+- The game in general is turn-based. Each turn is for half a year (game-time only).
+
+- Your income is pre-determined by a game.
+It does not have any "condition" that detemines it - 
+it varies from game to game,
+so you can know it from viewing a game's details
+(or seeing how much money you earn at a turn by doing nothing).
+
+There are no expenses.
+
+This is because this game is about earning money by investing. I don't want to complicate
+the game so much more by allowing the player to also affect his expenses and revenues.
+
+- When the time span of a deposit you bought is due, you will most likely
+receive automatically a sum of money that equals the entire deposit
+with the interest you are supposed to get for it,
+in which case the money will be in your uninvested savings.
+
+If that doesn't happen when the timespan of a desposit is due, the game
+will inform you about that.
+
+- Generally, in every turn, you have 3 basic courses of action you can take:
+
+a. Buy a deposit of your choice (by choosing one from the list of the game's deposits).
+
+b. Order the bank to release your deposit for you, even thought the time span is not due yet.
+
+c. Do nothing (wait).
+
+- To finish each of your turn, you must choose one of the 3 actions shown above.
+
+- In each of your turns,
+You may also save your game, and/or return to the main meun,
+and/or view the details of the bank and all its deposits in the "bank board",
+and/or your player details, and/or the current game's details.
+
+- You can't do nothing for more than 3 turns in a row.
+
+In real life, if you were in this situation, you wouldn't want to spend
+so much time buying deposits and then doing nothing,
+because you may feel bored. Very bored. Thirsty for some sort of cognitive stimulation.
+So that's why it's like this.
+
+- The minimum amount of money you need to be allowed to buy a deposit,
+is the minimum amount defined for it divided by your risk profile.
+Example: If your risk profile is 80% and your savings are 500 dollars,
+you will be able to put at max 400 dollars to the deposit - 
+so if the minimum for the deposit above 400,
+you won't be allowed to buy the deposit.
+
+- When you ask the bank to release a deposit - it doesn't have to agree.
+Whatever he agrees or not depends on a condition of the deposit called "exit points" - 
+which are the dates when a deposit can be released before its time span is due,
+once you bought it.
+
+Every deposit has a property for that, called "gap of months between each exit point".
+This is the gap of months between each exit point, with the 1st exit point being right after
+you bought at the deposit, and the final one being right at or before the time span
+of the deposit will be due.
+
+So, if a deposit's time span is 1 (year), it's bought at Janaury 2010 
+and its "gap of months for exit points" is 6 months,
+you could ask the bank to release it (and he'll accept) on July 2010
+and January 2011.
+If that deposit's "gap of months" was 0, it means it has no exit points - 
+it'll only release once its time span is due, by the bank only.
+
+- if the bank has finicial diffculties in returing you the deposit when it gets released,
+
+which can happen whatever when your deposit gets released when the time span is due,
+or before that time - but NOT when you buy a deposit,
+
+the bank will go bankrupt and close.
+What will happen then is:
+
+1. The bank that goes bankrupt will automatically give you all the money it has left
+(in addition to the money of the deposit without interest)
+
+2. a "new" bank will automatically be created
+and all players will become clients of the "new" bank.
+
+3. The rest of your deposits will be released automatically with
+no interest at all.
+
+The "new" bank's sum of money and deposits will equal those of the bank
+that went bankrupt when it was created (at the start of the game).
+
+

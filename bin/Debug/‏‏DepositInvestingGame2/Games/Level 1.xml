@@ -1,0 +1,34 @@
+<AGame>
+
+<Name>Level 1</Name>
+<RiskProfile>1</RiskProfile>
+<MoneyToEnd>800</MoneyToEnd>
+<StartMoney>300</StartMoney>
+<Income>100</Income>
+<BankName>Simpliest bank ever</BankName>
+
+<Bank>
+<StartBankMoney>300</StartBankMoney>
+</Bank>
+
+<Deposit>
+
+<Name>Flower</Name>
+<TimeSpan>1</TimeSpan>
+<DefaultInterestPerYear>1.08</DefaultInterestPerYear>
+<MinimumMoney>0</MinimumMoney>
+  <ExitPointsGap>6</ExitPointsGap>
+
+</Deposit>
+
+<Deposit>
+
+<Name>Bear</Name>
+<TimeSpan>2</TimeSpan>
+<DefaultInterestPerYear>1.1</DefaultInterestPerYear>
+<MinimumMoney>0</MinimumMoney>
+  <ExitPointsGap>6</ExitPointsGap>
+
+</Deposit>
+
+</AGame>
